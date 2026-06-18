@@ -78,10 +78,6 @@ const joaoMarcos = {
   <img src="https://raw.githubusercontent.com/myojo09/myojo09/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
-> ⚙️ **Para ativar a cobrinha:** crie a pasta `.github/workflows/` no seu repositório e adicione o arquivo [`snake.yml`](./snake.yml) disponível neste repositório.
-
----
-
 ## 📈 Atividade recente
 
 <div align="center">
