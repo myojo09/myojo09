@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=João%20Marcos&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Front-end%20Developer%20%7C%20UI%20Enthusiast&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=João%20Marcos&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Front-end%20Developer%20%7C%20Automa%C3%A7%C3%A3o%20%26%20Agentes%20de%20IA&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=520&lines=Oi%2C+eu+sou+o+João+Marcos!+👋;Front-end+Developer+em+formação...;Transformando+ideias+em+interfaces+✨;Sempre+aprendendo+algo+novo+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=580&lines=Oi%2C+eu+sou+o+Jo%C3%A3o+Marcos!+%F0%9F%91%8B;Front-end+Developer+em+forma%C3%A7%C3%A3o+%F0%9F%92%BB;Automa%C3%A7%C3%A3o+de+Processos+com+n8n+%F0%9F%A4%96;Construindo+agentes+de+IA+%F0%9F%94%97;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -23,12 +23,12 @@
 
 ```js
 const joaoMarcos = {
-  nome:       "João Marcos Menezes Costa",
+  nome:        "João Marcos Menezes Costa",
   localização: "Fortaleza, CE — Brasil 🇧🇷",
-  foco:        "Front-end Development",
-  atualmente:  "Aprendendo e construindo projetos do zero 🔨",
-  objetivo:    "Criar interfaces bonitas, acessíveis e funcionais",
-  curiosidade: "Sou apaixonado por design + código ao mesmo tempo ❤️",
+  foco:        "Front-end + Automação de Processos",
+  atualmente:  "Construindo agentes de IA com n8n 🤖",
+  objetivo:    "Criar soluções inteligentes que automatizam o mundo real",
+  curiosidade: "Misturar front-end com automação é minha combo favorita ⚡",
 };
 ```
 
