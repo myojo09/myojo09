@@ -64,14 +64,6 @@ const joaoMarcos = {
 
 ---
 
-## 🏆 Troféus
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=myojo09&amp;theme=tokyonight&amp;no-frame=true&amp;row=1&amp;column=6&amp;margin-w=8" alt="Trophies"/>
-</div>
-
----
-
 ## 🐍 Minhas contribuições
 
 <div align="center">
