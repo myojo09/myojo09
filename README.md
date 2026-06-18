@@ -1,19 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=João%20Marcos&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Front-end%20Developer%20%7C%20Automa%C3%A7%C3%A3o%20%26%20Agentes%20de%20IA&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Jo%C3%A3o%20Marcos&amp;fontSize=50&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=36&amp;desc=Front-end%20Developer%20%7C%20Automa%C3%A7%C3%A3o%20e%20Agentes%20de%20IA&amp;descSize=18&amp;descAlignY=55&amp;descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=580&lines=Oi%2C+eu+sou+o+Jo%C3%A3o+Marcos!+%F0%9F%91%8B;Front-end+Developer+em+forma%C3%A7%C3%A3o+%F0%9F%92%BB;Automa%C3%A7%C3%A3o+de+Processos+com+n8n+%F0%9F%A4%96;Construindo+agentes+de+IA+%F0%9F%94%97;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=6366F1&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=580&amp;lines=Oi%2C+eu+sou+o+Jo%C3%A3o+Marcos!+%F0%9F%91%8B;Front-end+Developer+em+forma%C3%A7%C3%A3o+%F0%9F%92%BB;Automa%C3%A7%C3%A3o+de+Processos+com+n8n+%F0%9F%A4%96;Construindo+agentes+de+IA+%F0%9F%94%97;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/joao-marcos-menezes-2287a024a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/myojo09" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
@@ -28,7 +28,7 @@ const joaoMarcos = {
   foco:        "Front-end + Automação de Processos",
   atualmente:  "Construindo agentes de IA com n8n 🤖",
   objetivo:    "Criar soluções inteligentes que automatizam o mundo real",
-  curiosidade: "Misturar front-end com automação é meu combo favorito ⚡",
+  curiosidade: "Misturar front-end com automação é minha combo favorita ⚡",
 };
 ```
 
@@ -39,13 +39,13 @@ const joaoMarcos = {
 <div align="center">
 
   ### Front-end
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma&amp;theme=dark" />
 
   ### Automação
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&amp;logo=n8n&amp;logoColor=white" alt="n8n"/>
 
   ### Ferramentas
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&amp;theme=dark" />
 
 </div>
 
@@ -54,12 +54,12 @@ const joaoMarcos = {
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=myojo09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myojo09&layout=compact&langs_count=7&theme=tokyonight&border_radius=12"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=myojo09&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;border_radius=12"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myojo09&amp;layout=compact&amp;langs_count=7&amp;theme=tokyonight&amp;border_radius=12"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=myojo09&theme=tokyonight&border_radius=12" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=myojo09&amp;theme=tokyonight&amp;border_radius=12" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -67,7 +67,7 @@ const joaoMarcos = {
 ## 🏆 Troféus
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=myojo09&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=myojo09&amp;theme=tokyonight&amp;no-frame=true&amp;row=1&amp;column=6&amp;margin-w=8" alt="Trophies"/>
 </div>
 
 ---
@@ -85,13 +85,13 @@ const joaoMarcos = {
 ## 📈 Atividade recente
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=myojo09&theme=tokyo-night&bg_color=1a1b27&color=628fdb&line=628fdb&point=ffffff&area=true&hide_border=true" alt="Gráfico de atividade"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=myojo09&amp;theme=tokyo-night&amp;bg_color=1a1b27&amp;color=628fdb&amp;line=628fdb&amp;point=ffffff&amp;area=true&amp;hide_border=true" alt="Gráfico de atividade"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer" width="100%"/>
 </div>
 
 <div align="center">
