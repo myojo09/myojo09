@@ -28,7 +28,7 @@ const joaoMarcos = {
   foco:        "Front-end + Automação de Processos",
   atualmente:  "Construindo agentes de IA com n8n 🤖",
   objetivo:    "Criar soluções inteligentes que automatizam o mundo real",
-  curiosidade: "Misturar front-end com automação é minha combo favorita ⚡",
+  curiosidade: "Misturar front-end com automação é meu combo favorito ⚡",
 };
 ```
 
